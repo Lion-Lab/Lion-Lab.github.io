@@ -1,2 +1,2 @@
 # Lion-Lab.github.io
-Lion Laboratory Research Team @INTTIC
+LION Laboratory Research Team @INTTIC
